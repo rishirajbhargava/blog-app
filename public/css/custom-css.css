@@ -1,0 +1,17 @@
+
+
+.user-logo{
+    display: flex;
+    gap:5px;
+    padding:5px;
+    margin-top: 14px ;
+    font-size: 1.1em;
+    
+}
+.user-data{
+    display: flex;
+    align-items: center;
+    color:white;
+    text-align: center;
+}
+
